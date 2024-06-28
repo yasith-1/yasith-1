@@ -1,10 +1,8 @@
 𝐇𝐄𝐋𝐋𝐎𝐖 PROGRAMMERS..!
 
-# 💫 About Me:
-🔭 I'm YASITH ,I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 <h1 align="center">Hi 👋, I'm Yasith Prabhashwara</h1>
 <h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
+<img src="https://cdn.pixabay.com/animation/2022/08/31/08/22/08-22-29-904_512.gif" width="400" align="right" alt="coding" />
 
 - 🌱 I’m currently learning **PHP | MySQL | JAVA | C++**
 
