@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **yasithprabaswara1@gmail.com**
 
+- [![](https://visitcount.itsvg.in/api?id=yasith-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 - ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yashith.prabashwara.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_yasith_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yasith)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@falcon_shoes) 
 
@@ -30,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasith-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yasith-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
