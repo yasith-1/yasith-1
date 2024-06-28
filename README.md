@@ -1,9 +1,8 @@
-𝐇𝐄𝐋𝐋𝐎𝐖 PROGRAMMERS..!
 
 <h1 align="center">Hi 👋, I'm Yasith Prabhashwara</h1></br>
 <h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
 </br>
-<img src="[https://cdn.pixabay.com/animation/2022/08/31/08/22/08-22-29-904_512.gif](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952senxfco59jufx3smhlgm7gfxt9rko11mqxy3malk&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="400" align="right" alt="coding" />
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen" width="400" align="right" alt="coding" />
 
 - 🌱 I’m currently learning **PHP | MySQL | JAVA | C++**
 
@@ -16,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-</br></br>
+</br>
 
 
 ## 🌐 Socials:
