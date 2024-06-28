@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Yasith Prabhashwara</h1></br>
 <h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
 </br>
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen" width="400" align="right" alt="coding" />
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 
 - 🌱 I’m currently learning **PHP | MySQL | JAVA | C++**
 
