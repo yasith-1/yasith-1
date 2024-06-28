@@ -1,8 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Yasith Prabhashwara</h1></br>
+<div style="border:1px solid #ffffff">
+  <h1 align="center">Hi 👋, I'm Yasith Prabhashwara</h1></br>
 <h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
 </br>
-<img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952nsqfbo82dh2xls632vh03vr3s4pcb1r3s915br9a&ep=v1_gifs_search&rid=200w.gif&ct=g" width="400" align="right" alt="coding" />
+<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" align="right" alt="coding" />
 
 
 - 🌱 I’m currently learning **PHP | MySQL | JAVA | C++**
@@ -16,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+</div>
 </br>
 
 
