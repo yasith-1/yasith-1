@@ -3,6 +3,22 @@
 # 💫 About Me:
 🔭 I'm YASITH ,I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+<h1 align="center">Hi 👋, I'm Yasith Prabhashwara</h1>
+<h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
+
+- 🌱 I’m currently learning **PHP | MySQL | JAVA | C++**
+
+- 👨‍💻 Founder Of [Allionz](Allionz.com)
+
+- 💬 Ask me about **HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.**
+
+- 📫 How to reach me **yasithprabaswara1@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yashith Prabashwara) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_yasith_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yasith) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ falcon_shoes) 
