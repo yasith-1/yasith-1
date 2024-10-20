@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I'm Yasith Prabhashwara</h1></br>
 <h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
 </br>
-<img src="https://images.unsplash.com/photo-1633976976526-4e3584e91a5d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400" align="right" alt="coding" />
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" align="right" alt="coding" />
 
 
 - 🌱 I’m currently learning **PHP | MySQL | JAVA | C++**
