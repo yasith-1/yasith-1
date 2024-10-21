@@ -31,9 +31,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasith-1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasith-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+</div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
