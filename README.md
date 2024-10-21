@@ -10,7 +10,7 @@
 
 - 👨‍💻 Founder Of [Allionz Software Experts](https://allionz.infinityfreeapp.com/?i=1)
 
-- 📌 <a href="https://allionz.infinityfreeapp.com/?i=1">Allionz Software Experts</a>
+- 📌 <a href="https://allionz.infinityfreeapp.com/?i=1" target="_blank">Allionz Software Experts</a>
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.**
 
