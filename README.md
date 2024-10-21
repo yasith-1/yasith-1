@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PHP | MySQL | JAVA | C++**
 
-- 👨‍💻 Founder Of [Allionz](Allionz.com)
+- 👨‍💻 Founder Of [Allionz](https://allionz.infinityfreeapp.com/?i=1)
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.**
 
