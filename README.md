@@ -1,4 +1,4 @@
-
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://rishavchanda.io)
 <div style="border:1px solid #ffffff">
   <h1 align="center">Hi 👋, I'm Yasith Prabhashwara</h1></br>
 <h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
@@ -17,9 +17,19 @@
 - 📫 How to reach me **yasithprabaswara1@gmail.com**
 
 - [![](https://visitcount.itsvg.in/api?id=yasith-1&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
 
-- ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/yashith.prabashwara.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_yasith_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yasith)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@falcon_shoes) 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekhirushadev" height="30" width="40" /></a>
+<a href="https://twitter.com/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekhirushadev" height="30" width="40" /></a>
+<a href="https://fb.com/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekhirushadev" height="30" width="40" /></a>
+<a href="https://instagram.com/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekhirushadev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/geekhirush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekhirush" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/WH9MqWqbQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WH9MqWqbQ" height="30" width="40" /></a>
+</p>   
+
+<hr>
 
 </div>
 </br>
