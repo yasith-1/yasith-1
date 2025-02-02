@@ -21,11 +21,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekhirushadev" height="30" width="40" /></a>
-<a href="https://twitter.com/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekhirushadev" height="30" width="40" /></a>
-<a href="https://fb.com/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekhirushadev" height="30" width="40" /></a>
-<a href="https://instagram.com/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekhirushadev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/geekhirush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekhirush" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekhirushadev" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekhirushadev" height="30" width="40" /></a> -->
+<a href="https://www.facebook.com/yashith.prabashwara.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekhirushadev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_yasith_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekhirushadev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Codewithyasith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekhirush" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/WH9MqWqbQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WH9MqWqbQ" height="30" width="40" /></a>
 </p>   
 
