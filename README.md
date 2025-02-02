@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://rishavchanda.io)
 <div style="border:1px solid #ffffff">
-  <h1 align="center">Hi 👋, I'm Yasith Prabhashwara</h1></br>
+  <h1 align="center">Hi 👋, I'm Yashith Prabhashwara</h1></br>
 <h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
 </br>
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" align="right" alt="coding" />
