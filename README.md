@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **yasithprabaswara1@gmail.com**
 
-- [![](https://visitcount.itsvg.in/api?id=yasith-1&icon=0&color=0)](https://visitcount.itsvg.in)
 <hr>
 
 <h3 align="center">Connect with me:</h3>
