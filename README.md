@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **PHP | MySQL | JAVA | C++** | REACT
 
-- 👨‍💻 Founder Of [Allionz Software Experts](https://yasith-1.github.io/Allions-Software_experts/)
+- 👨‍💻 Founder Of [Allionz Software Experts]
 
-- 📌 <a href="https://allionz.infinityfreeapp.com/?i=1" target="_blank">Allionz Software Experts</a>
+- 📌 <a href="https://yasith-1.github.io/Allions-Software_experts/" target="_blank">Allionz Software Experts</a>
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.**
 
