@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" align="right" alt="coding" />
 
 
-- 🌱 I’m currently learning **PHP | MySQL | JAVA | C++**
+- 🌱 I’m currently learning **PHP | MySQL | JAVA | C++** | REACT
 
 - 👨‍💻 Founder Of [Allionz Software Experts](https://allionz.infinityfreeapp.com/?i=1)
 
