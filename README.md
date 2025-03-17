@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PHP | MySQL | JAVA | C++** | REACT
 
-- 👨‍💻 Founder Of [Allionz Software Experts](https://allionz.infinityfreeapp.com/?i=1)
+- 👨‍💻 Founder Of [Allionz Software Experts](https://yasith-1.github.io/Allions-Software_experts/)
 
 - 📌 <a href="https://allionz.infinityfreeapp.com/?i=1" target="_blank">Allionz Software Experts</a>
 
