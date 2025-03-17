@@ -10,7 +10,7 @@
 
 - 👨‍💻 Founder Of [Allionz Software Experts]
 
-- 📌 <a href="https://yasith-1.github.io/Allions-Software_experts/" target="_blank">Allionz Software Experts</a>
+- 📌 <a href="https://yasith-1.github.io/Allions-Software_experts" target="_blank">Allionz Software Experts</a>
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.**
 
