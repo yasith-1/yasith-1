@@ -6,7 +6,7 @@
 
 <div>
   <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
-  <h1 align="center">Hi 👋, I'm Yashith Prabhashwara</h1></br>
+  <h1 align="center" style="border-bottom: none;">Hello 👋, I'm Yashith Prabhashwara</h1>
   <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
 <h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
 </br>
@@ -54,7 +54,7 @@
 <img align="right" height="300" src="https://static.wixstatic.com/media/a89add_3d73f7e43cff4f37bdf0af4772ef6595~mv2.gif"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasith-1&theme=onedark&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yasith-1&theme=onedark&hide_border=true)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=yasith-1&theme=onedark&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasith-1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
