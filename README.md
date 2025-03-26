@@ -2,7 +2,7 @@
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
   <a href="https://yasith-1.github.io/Official_Portfolio/" target="_blank">
-        <img src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668028966/My%20Stuff/animation_500_laa5d52j_vdcjjq.gif"/>
+        <img src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668028966/My%20Stuff/animation_500_laa5d52j_vdcjjq.gif" width="400px"/>
   </a>
 </p>
 
