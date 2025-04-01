@@ -18,13 +18,15 @@
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" align="right" alt="coding" />
 
 
-- 🌱 I’m currently learning **PHP | MySQL | JAVA | C++** | REACT
+- 🌱 I’m currently learning **MERN**
+
+- 👯 I’m looking to collaborate on **React Projects**
+
+- 🤝 I’m looking for help with **Backend Design**
 
 - 👨‍💻 Founder Of [Allionz Software Experts]
 
 - 📌 <a href="https://yasith-1.github.io/Allions-Software_experts" target="_blank">Allionz Software Experts</a>
-
-- 💬 Ask me about **HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.**
 
 - 📫 How to reach me **yasithprabaswara1@gmail.com**
 
