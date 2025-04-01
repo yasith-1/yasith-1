@@ -1,6 +1,8 @@
  <!--[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://rishavchanda.io) -->
+ ![Github Banner](https://github.com/IroshanRathnayake/IroshanRathnayake/blob/main/banner.png)
+ 
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>-->
   <a href="https://yasith-1.github.io/Official_Portfolio/" target="_blank">
         <img src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668028966/My%20Stuff/animation_500_laa5d52j_vdcjjq.gif" width="400px"/>
   </a>
@@ -9,6 +11,7 @@
 <div>
   <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
   <h1 align="center" style="border-bottom: none;">Hello 👋, I'm Yashith Prabhashwara</h1>
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Passionate+Developer+and+Freelancer" alt="Typing SVG" /></a></p>
   <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
 <h3 align="center">A passionate frontend | Backend developer from Sri Lanka</h3>
 </br>
@@ -24,6 +27,8 @@
 - 💬 Ask me about **HTML, CSS, JS, PHP, Bootstrap 5, Semantic UI and SQL.**
 
 - 📫 How to reach me **yasithprabaswara1@gmail.com**
+
+-  ⚡ Fun fact **Coding is a passion and not profession.**
 </br>
 <hr>
 
@@ -62,6 +67,11 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 <h4 align="center">
   𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝❤️<br/>
