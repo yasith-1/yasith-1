@@ -1,6 +1,17 @@
- <!--[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://rishavchanda.io) -->
+<!-- Top Image -->
  ![Github Banner](https://github.com/IroshanRathnayake/IroshanRathnayake/blob/main/banner.png)
- 
+
+<!-- Tags -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-22-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  </br></br>
+  <img src="https://komarev.com/ghpvc/?username=yasith-1&label=Profile%20views&color=0e75b6&style=flat" alt="yashith-prabhshwara" /> 
+</p>
+
+ <!-- Runinng slogen -->
  <p align="center">
   <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>-->
   <a href="https://yasith-1.github.io/Official_Portfolio/" target="_blank">
