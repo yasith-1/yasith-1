@@ -107,13 +107,22 @@
 </div>
 
 <h3 align="left">✨ GitHub Stats</h3>
-<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
-<img align="right" height="300" src="https://static.wixstatic.com/media/a89add_3d73f7e43cff4f37bdf0af4772ef6595~mv2.gif"/>
+<div align="left">
+ 
+</div>
+<p >
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasith-1&theme=onedark&show_icons=true)<br/>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=yasith-1&theme=onedark&hide_border=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=yasith-1&theme=onedark&hide_border=true)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasith-1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</p>
+
+<div align="center">
+ <img  width="300" src="https://static.wixstatic.com/media/a89add_3d73f7e43cff4f37bdf0af4772ef6595~mv2.gif"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
