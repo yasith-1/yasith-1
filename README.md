@@ -58,18 +58,18 @@
 </br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="55" /> &nbsp
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  width="55" /> &nbsp
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" width="55" /> &nbsp
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  width="55" /> &nbsp
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  width="55" /> &nbsp
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  width="55" /> &nbsp
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  width="55" /> &nbsp
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="55" /> &nbsp
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  width="55" /> &nbsp
 
   <br>
-  
+
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  width="55" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" width="55" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  width="55" />
