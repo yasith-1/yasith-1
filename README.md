@@ -46,8 +46,9 @@
 </br>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+
 <p align="center">
+ <h3>Connect with me:</h3>
 <!-- <a href="https://codepen.io/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geekhirushadev" height="30" width="40" /></a> -->
 <!-- <a href="https://twitter.com/geekhirushadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekhirushadev" height="30" width="40" /></a> -->
 <!-- <a href="https://www.facebook.com/yashith.prabashwara.9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasith" height="30" width="40" /></a> -->
@@ -126,11 +127,16 @@
 
 <div align="center">
  <img  width="300" src="https://static.wixstatic.com/media/a89add_3d73f7e43cff4f37bdf0af4772ef6595~mv2.gif"/>
+
+![](https://github-readme-stats.vercel.app/api?username=yasith-1&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yasith-1&theme=neon&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasith-1&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasith-1&theme=onedark&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yasith-1&theme=onedark&hide_border=true)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasith-1&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=yasith-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </p>
 
