@@ -3,7 +3,7 @@
 
 <!-- Tags -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-22-brightgreen" />
+  <img src="https://img.shields.io/badge/Age-23-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
