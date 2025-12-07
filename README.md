@@ -36,7 +36,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 Founder Of [Allionz Software Experts]
+- 👨‍💻 Working as Intern Software Engineer @ NEXOVA IT SOLUTIONS .
 
 - 📌 <a href="https://yasith-1.github.io/Allions-Software_experts" target="_blank">Allionz Software Experts</a>
 
