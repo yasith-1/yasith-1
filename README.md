@@ -55,7 +55,7 @@
 <!-- <a href="https://www.instagram.com/mr_yasith_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasith" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/@Codewithyasith" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yasith" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/WH9MqWqbQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yasith" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashith-prabhashwara-a1aa471a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasith" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashith-prabhashwara/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasith" height="30" width="40" /></a>
 </p>   
 
 <hr>
