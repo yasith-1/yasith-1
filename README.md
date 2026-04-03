@@ -36,13 +36,13 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 Working as Intern Software Engineer @ NEXOVA IT SOLUTIONS .
+- 👨‍💻 Worked as Intern Software Engineer @ NEXOVA IT SOLUTIONS .
 
 - 📌 <a href="https://yasith-1.github.io/Allions-Software_experts" target="_blank">Allionz Software Experts</a>
 
 - 📫 How to reach me **yasithprabaswara1@gmail.com**
 
--  ⚡ Fun fact **Coding is a passion and not profession.**
+-  ⚡ Fun fact **Coding is a passion and not a profession.**
 </br>
 <hr>
 
