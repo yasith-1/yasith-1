@@ -36,7 +36,9 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 Worked as Intern Software Engineer @ NEXOVA IT SOLUTIONS .
+- 👨‍💻 Working as a Trainee Full Stack Software Engineer @ SUNDEVS.
+
+- 📌 Worked as a Intern Software Engineer @ NEXOVA IT SOLUTIONS .
 
 - 📌 <a href="https://yasith-1.github.io/Allions-Software_experts" target="_blank">Allionz Software Experts</a>
 
