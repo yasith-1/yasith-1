@@ -1,6 +1,5 @@
 <!-- Top Image -->
  ![Github Banner](https://github.com/user-attachments/assets/12e020fe-7699-48b5-ae28-2ab9c1484f3b)
-<!-- <img width="1400" height="349" alt="githubBanner" src="https://github.com/user-attachments/assets/12e020fe-7699-48b5-ae28-2ab9c1484f3b" /> -->
 
 <!-- Tags -->
 <p align="center">
