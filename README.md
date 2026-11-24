@@ -62,6 +62,16 @@
 
 <hr>
 
+<!-- CertDirectory -->
+<h3 align="center">🎓 Certifications</h3>
+<p align="center">
+  <a href="https://certdirectory.io/profile/wijayamuni-dewage-yashith?utm_source=github&utm_medium=readme" target="_blank">
+    <img src="https://certdirectory.io/badge/wijayamuni-dewage-yashith.svg?style=card&theme=dark" alt="Wijayamuni Dewage Yashith on CertDirectory" />
+  </a>
+</p>
+
+<hr>
+
 </div>
 </br>
 
@@ -162,4 +172,3 @@
 </p>
 
 </div>
-
