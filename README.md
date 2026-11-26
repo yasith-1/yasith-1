@@ -36,13 +36,11 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 Working as a Trainee Full Stack Software Engineer @ SUNDEVS.
+- 👨‍💻 Worked as an intern Software Engineer @ SUNDEVS PVT LTD.
 
-- 📌 Worked as a Intern Software Engineer @ NEXOVA IT SOLUTIONS .
+- 👨‍💻 Worked as an Intern Software Engineer @ NEXOVA IT SOLUTIONS .
 
-- 📌 <a href="https://yasith-1.github.io/Allions-Software_experts" target="_blank">Allionz Software Experts</a>
-
-- 📫 How to reach me **yasithprabaswara1@gmail.com**
+- 📫 How to reach me **yashith.wd@gmail.com**
 
 -  ⚡ Fun fact **Coding is a passion and not a profession.**
 </br>
